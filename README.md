@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a cybersecurity specialist with a background i
 -In stealth
 
  Interests:  
--Qunatum Computing
+-Quantum Computing
 -Encryption
 ---
 
